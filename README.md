@@ -58,6 +58,4 @@ The commands above are examples for manual testing; `PING` is not implemented, a
 - `src/workers_pool.c`: worker dispatch
 - `src/config.c`: configuration parsing
 
-## Notes
 
-This repository contains only the author's Redis-like server component extracted from a broader university lab workspace. Generated build outputs, profiler recordings, IDE files, and unrelated assignments have been excluded. No formal performance claims or full Redis compatibility guarantees are made.
