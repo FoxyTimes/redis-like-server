@@ -1,0 +1,24 @@
+# Build products
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/.cmake/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+*.o
+*.a
+*.so
+*.out
+*.exe
+/repa
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Profiling and logs
+perf.data*
+*.log
